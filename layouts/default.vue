@@ -11,7 +11,7 @@
       </v-container>
     </v-main>
     <v-footer dark color="orange" app>
-      <span>© 2021 MarkingCloud</span>
+      <span>© 2022 MarkingCloud</span>
     </v-footer>
   </v-app>
 </template>
